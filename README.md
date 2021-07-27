@@ -1,3 +1,8 @@
+
+![alt text][logo]
+
+[logo]: https://newslanded.com/wp-content/uploads/2020/07/The-15-Most-Powerful-Anime-Characters-Of-All-Time-scaled.jpg "Anime Logo"
+
 # Overview 
 
 **This project is focusing about finding the new details of the anime after 
