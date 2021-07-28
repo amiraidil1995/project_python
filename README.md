@@ -5,6 +5,8 @@
 
 # Overview 
 
+**Dataset retrieved from *https://www.kaggle.com/vishalmane109/anime-recommendations-database* (Anime Database for Recommendation system)**
+
 **This project is focusing about finding the new details of the anime after 
 the modify of the dataset. The final results will be the details of specific 
 columns that are implemented.**
